@@ -73,14 +73,6 @@
 
 </div>
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnav-saini2007&bg_color=0d1117&color=00d4d4&line=00b3b3&point=ffffff&area=true&area_color=006666&hide_border=true&custom_title=Arnav's%20Contribution%20Graph" width="100%" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
