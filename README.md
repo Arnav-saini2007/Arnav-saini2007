@@ -66,13 +66,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnav-saini2007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4d4&icon_color=00b3b3&text_color=c9d1d9&bg_color=0d1117" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-saini2007&layout=compact&langs_count=8&hide_border=true&title_color=00d4d4&text_color=c9d1d9&bg_color=0d1117" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
+</picture>
 
 </div>
-
----
 
 ## 🔥 Contribution Streak
 
