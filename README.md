@@ -71,10 +71,6 @@
   <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
 </picture>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-saini2007&layout=compact&langs_count=8&hide_border=true&title_color=00d4d4&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages">
-
 </div>
 
 ## 📈 Contribution Activity
