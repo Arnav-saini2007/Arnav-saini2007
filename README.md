@@ -71,17 +71,11 @@
   <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
 </picture>
 
-</div>
+<br/>
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=arnav-saini2007&theme=dark&hide_border=true&background=0D1117&stroke=00B3B3&ring=00D4D4&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4D4&sideLabels=00B3B3&dates=8B949E" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-saini2007&layout=compact&langs_count=8&hide_border=true&title_color=00d4d4&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages">
 
 </div>
-
----
 
 ## 📈 Contribution Activity
 
