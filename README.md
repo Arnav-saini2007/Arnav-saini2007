@@ -1,16 +1,115 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Arnav-saini2007/Arnav-saini2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Arnav
 
-Here are some ideas to get you started:
+### Engineer • Developer • Problem Solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=arnav-saini2007&label=PROFILE+VIEWS&color=00b3b3&style=for-the-badge" alt="Profile Views" />
+
+<br/><br/>
+
+> Building, learning, and turning ideas into real-world solutions.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+* 🔭 Currently working on **[Smart Transport Management System](https://github.com/Arnav-saini2007/Smart-transport-Management-System)**
+* 🌱 Currently learning **Java**
+* 💬 Ask me about **C**
+* 📫 Reach me at **[arnav.saini.120407@gmail.com](mailto:arnav.saini.120407@gmail.com)**
+* ⚡ Fun fact: **The sky is blue... most of the time.**
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/arnav-saini-b28475373">
+    <img src="https://img.shields.io/badge/LinkedIn-00b3b3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:arnav.saini.120407@gmail.com">
+    <img src="https://img.shields.io/badge/Email-008b8b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,tailwind,pytorch,sklearn&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux,figma,arduino&theme=dark" />
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-008b8b?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-00b3b3?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-006666?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnav-saini2007&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4d4&icon_color=00b3b3&text_color=c9d1d9&bg_color=0d1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav-saini2007&layout=compact&langs_count=8&hide_border=true&title_color=00d4d4&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=arnav-saini2007&theme=dark&hide_border=true&background=0D1117&stroke=00B3B3&ring=00D4D4&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4D4&sideLabels=00B3B3&dates=8B949E" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnav-saini2007&bg_color=0d1117&color=00d4d4&line=00b3b3&point=ffffff&area=true&area_color=006666&hide_border=true&custom_title=Arnav's%20Contribution%20Graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav-saini2007/Arnav-saini2007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav-saini2007/Arnav-saini2007/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Arnav-saini2007/Arnav-saini2007/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code. Build. Learn. Repeat.
+
+</div>
